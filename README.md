@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**0x48h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**c0deVX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=0x48h&theme=solarized-dark&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=c0deVX&theme=solarized-dark&show_icons=true)
 
 
