@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+~ hed0x@linuxmail.org
+
+#### Some stats...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=c0deVX&theme=solarized-dark&show_icons=true)
 
