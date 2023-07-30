@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**c0deVX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hed0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 #### Some stats...
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=c0deVX&theme=solarized-dark&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=hed0x&theme=solarized-dark&show_icons=true)
 
 
