@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-~ hed0x@linuxmail.org
+~ hed0x@proton.me
 
 #### Some stats...
 
